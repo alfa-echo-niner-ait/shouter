@@ -1,5 +1,4 @@
-# shouter
-Simple Maven Webapp Group Project
+# Simple Maven Webapp Group Project
 
 ---
 
