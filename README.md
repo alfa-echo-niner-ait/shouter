@@ -35,7 +35,7 @@ Simple Maven Webapp Group Project
   - Custom Error Page
 
 
-  - **Core Technologies:**
+- **Core Technologies:**
     - Java 19
     - JSP
     - JavaScript
@@ -44,7 +44,7 @@ Simple Maven Webapp Group Project
     - CSS
 
 
-  - **Implemented Technologies:**
+- **Implemented Technologies:**
     - Apache Maven 3.8.6
     - Spring Boot
     - Java Servlet 4
