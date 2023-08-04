@@ -15,7 +15,7 @@ public class logout extends HttpServlet {
             session.invalidate();
         }
         String logoutMsg = """
-                    <div class="alert alert-warning alert-dismissible ms-3 me-3 mt-lg-5" fade show>
+                    <div class="alert alert-success alert-dismissible ms-3 me-3 mt-lg-5" fade show>
                         <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
                         Logout successful!
                     </div>

@@ -37,7 +37,7 @@ public class login extends HttpServlet {
             newSession.setAttribute("username", user.getUsername());
             newSession.setAttribute("password", user.getPassword());
 
-            if(remember.equals("true")) {
+            if(remember != null) {
                 //setting session to expiry in 60 mins
                 newSession.setMaxInactiveInterval(60*60);
             }
