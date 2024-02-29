@@ -1,4 +1,4 @@
-# Simple Maven Webapp Group Project
+# A Maven Webapp Group Project
 
 ---
 
